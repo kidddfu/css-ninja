@@ -15,4 +15,4 @@
 2. border画三角形
 3. transition:all过渡实现下来菜单
 4. @keyframe音乐条
-5. 
+5. 多行超出省略号
